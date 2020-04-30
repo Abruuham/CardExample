@@ -4,7 +4,7 @@ This project was written using SwiftUI in order to create an animation of a cred
 
 
 ### To-Do
-- Create a the area on the back to hold the security code and include a mad stripe to make it look for authentic
+- Create a the area on the back to hold the security code and include a mad stripe to make it look more authentic
 - Let the users interact with the card, such as letting them change the card number, expiration date, and name dynamically.
 
 
